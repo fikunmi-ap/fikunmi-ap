@@ -1,5 +1,3 @@
-# Fikunmi
-
 Systems & research engineer interested in high-performance computing, distributed systems, virtual machines, and parallel execution.
 
 ## Selected engineering
